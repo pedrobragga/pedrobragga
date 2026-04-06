@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👋 Olá, eu sou Pedro Braga Bardini
 
-<!--
-**pedrobragga/pedrobragga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desenvolvedor Back-End em formação  
+🚀 Focado em Java, Spring Boot e APIs REST  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tecnologias
+- Java
+- Spring Boot
+- PostgreSQL
+- Git & GitHub
+- APIs REST
+
+---
+
+## 🚀 Projetos
+
+### 🔹 API de Usuários
+API REST com CRUD completo utilizando Spring Boot e PostgreSQL.
+
+👉 https://github.com/pedrobragga/api-usuarios
+
+---
+## 📫 Contato
+📧 pbragabardini@gmail.com
+## 📫 Contato
+📧 pbragabardini@gmail.com
