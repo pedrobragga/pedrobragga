@@ -24,5 +24,3 @@ API REST com CRUD completo utilizando Spring Boot e PostgreSQL.
 ---
 ## 📫 Contato
 📧 pbragabardini@gmail.com
-## 📫 Contato
-📧 pbragabardini@gmail.com
